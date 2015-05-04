@@ -1,0 +1,126 @@
+
+
+.spacer {
+	height: 60px
+}
+
+
+.menu {
+	font-family: Georgia;
+	background: rgba(225, 225, 225, .8);
+	height: 50px;
+	position: fixed;
+	width: 100%;
+}
+
+.project-name, .link-to-about, .link-to-videos, .link-to-intro {
+	display: inline;
+	line-height: 50px;
+}
+
+.link-to-about, .link-to-videos, .link-to-intro {
+	font-size: 18px;
+	float: right;
+	padding-right: 30px;
+}
+
+.project-name {
+	font-size: 30px;
+	margin-left: 1%;
+	font-weight: bold;
+}
+
+.link-to-intro {
+}
+
+.link-to-about {
+
+}
+
+.link-to-videos {
+
+}
+
+
+div.menu a:link{
+   text-decoration: none;
+   color: #004415;
+}
+
+div.menu a:visited{
+   text-decoration: none;
+   color: #227755;
+}
+
+div.menu a:active{
+   text-decoration: none;
+   color: #227755;
+}
+
+div.menu a:hover{
+   text-decoration: none;
+   color: #000000;
+
+
+/*.offscreen {
+  position: absolute;
+  top: -30em;
+  left: -300em;
+}
+
+div.menu {
+   margin: 0;
+   padding: .3em 0 .3em 0;
+   background: #ddeebb;
+   width: 100%;
+   text-align: center;
+}
+
+div.menu ul {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+
+div.menu ul li {
+   margin: 0;
+   padding: 0;
+   display: inline;
+}
+
+div.menu ul a:link{
+   margin: 0;
+   padding: .3em .4em .3em .4em;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: medium;
+   color: #004415;
+}
+
+div.menu ul a:visited{
+   margin: 0;
+   padding: .3em .4em .3em .4em;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: medium;
+   color: #227755;
+}
+
+div#hmenu ul a:active{
+   margin: 0;
+   padding: .3em .4em .3em .4em;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: medium;
+   color: #227755;
+}
+
+div.menu ul a:hover{
+   margin: 0;
+   padding: .3em .4em .3em .4em;
+   text-decoration: none;
+   font-weight: bold;
+   font-size: medium;
+   color: #f6f0cc;
+   background-color: #227755;
+}*/

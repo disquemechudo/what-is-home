@@ -1,0 +1,61 @@
+h1.header {
+	text-transform: uppercase;
+	text-align: center;
+	font-family: Georgia;
+}
+
+
+.about {
+	position: relative;
+	font-family: Arial;
+	font-size: 12px;
+	/*border: 1px solid black;*/
+	margin: 0 auto;
+    width: 690px;
+}
+
+.about-individuals {
+	/*border: 1px green solid;*/
+	padding: 10px;
+	margin: 10 px;
+	float: left;
+	position: relative;
+}
+
+
+div.about-row {
+    float:left;
+    margin: 0px auto;
+    /*border: 1px solid red;*/
+    display: inline-block;
+}
+
+
+img.profile-img {
+	width: 150px;
+	display: block;
+}
+
+.person {
+	font-weight: bold;
+}
+
+.role {
+	font-style: italic;
+}
+
+.profile {
+	text-align: center;
+}
+
+
+
+.cf:before,
+.cf:after {
+    content: " ";
+    display: table;
+}
+
+.cf:after {
+    clear: both;
+}
